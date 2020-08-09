@@ -5,7 +5,6 @@ package com.leetcode.addTwoNumbers;
  */
 public class AddTwoNumbersProblemV1 {
     public static void main(String[] args) {
-        System.out.println(8 % 10);
         ListNode nodeList1 = new ListNode(1);
         nodeList1.next = new ListNode(8);
         //nodeList1.next.next = new ListNode(3);
